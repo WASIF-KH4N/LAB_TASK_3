@@ -1,6 +1,6 @@
 ;Program to define 3 types of variables,use of enter key,input the value and add them.
 
-Dosseg
+dosseg
 .model small
 .stack 100h
 .data
